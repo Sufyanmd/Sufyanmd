@@ -1,4 +1,4 @@
-[![MasterHead](https://x.com/MD_sufyan133/header_photo)]
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQFWlhBPsN6ulw/profile-displaybackgroundimage-shrink_350_1400/0/1704817446760?e=1724284800&v=beta&t=3ih6vD4h6iufRClvPU71oc2MdJqQO3mmZ0lEenTB87w)]
 <h1 align="center">Hi 👋, I'm Mohammed Sufyan</h1>
 <h3 align="center">India's Frontend Dev Bringing Websites to Life</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
